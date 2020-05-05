@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Senior Android Developer in Stockholm, Sweden.
+
+For any professional requests head to Simson Creative, we provide development services for iOS and Android.
